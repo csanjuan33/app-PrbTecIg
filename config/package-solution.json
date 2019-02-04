@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "app-prb-tec-ig-client-side-solution",
+    "id": "42e70125-b602-44b9-ac4e-b84fe115979b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/app-prb-tec-ig.sppkg"
+  }
+}

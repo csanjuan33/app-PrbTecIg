@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "app-prb-tec-ig",
+    "libraryId": "42e70125-b602-44b9-ac4e-b84fe115979b",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
